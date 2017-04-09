@@ -43,7 +43,7 @@
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                 <textInputTraits key="textInputTraits"/>
                                 <connections>
-                                    <outlet property="delegate" destination="BYZ-38-t0r" id="Xch-Bu-Qii"/>
+                                    <outlet property="delegate" destination="BYZ-38-t0r" id="Wa8-YU-eYv"/>
                                 </connections>
                             </textField>
                         </subviews>
